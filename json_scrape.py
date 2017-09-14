@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jun 21 11:06:43 2017
-
-@author: jrbrad
+@author: gvbrei
+@template_author: jrbrad
 """
 
 import requests
